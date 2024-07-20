@@ -1,3 +1,7 @@
-# Capillaries-Analysis
+# Welcome to "Strain Sensor" repository!
 
-A scientific paper concerning this experiment was published:
+In this repository you will find scientific work involving capilar optical fibers (COFs) acting as strain sensors.
+
+
+
+A scientific paper about this repository analysis was published and can be accessed in 
