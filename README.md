@@ -1,6 +1,6 @@
 # Welcome to "Strain Sensor" repository!
 
-Overview: Study of capilar optical fibers (COFs) acting as strain sensors.
+Overview: Study on capilar optical fibers (COFs) acting as strain sensors.
 
 Files:
 - "E - 19": folder corresponding to one sample;
