@@ -2,7 +2,7 @@
 
 Overview: Study on capilar optical fibers (COFs) acting as strain sensors.
 
-Files:
+Contents:
 - "E - 19": folder corresponding to one sample;
   - "Band B - Data - Spectrum.TXT": .csv styled spectrum;
   - "Band B - Table - Transverse Section.xlsx": Excel sheet with the thickness profile of the sample;
