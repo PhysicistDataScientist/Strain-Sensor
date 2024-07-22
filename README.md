@@ -1,6 +1,12 @@
 # Welcome to "Strain Sensor" repository!
 
-Overview: Study on capilar optical fibers (COFs) acting as strain sensors.
+Subject: Capilar optical fibers (COFs) for strain sensing.
+
+Objectives:
+- Characterize the valleys on the near-infrared region of the spectrum;
+- Study the thickness variation of the cladding thoroughly the fiber;
+- Simulate the change in thickness and refractive index due to strain;
+- Simulation the shift in a valley position due to strain.
 
 Contents:
 - "E - 19": folder corresponding to one sample;
@@ -10,11 +16,10 @@ Contents:
 - "Path Manager.txt": file to contain the path location of the folder with all the sample folders.
 
 Instructions:
-1) Put "Path Manager.txt" in the same folder as "Hi-Bi Fiber.py";
-2) Write the path of the folder containing "Experimental Set 1" on "Path Manager.txt";
-3) Put the "E000X.txt" files and "Conversion Dictionary.xlsx" inside "Experimental Set 1";
-4) Fill the "Conversion Dictionary.xlsx" "Name" column with the angles corresponding spectrum file names.  
-5) Run "Hi-Bi Fiber.py".
+1) Put "Path Manager.txt" in the same folder as "Strain Sensing.py";
+2) Write the path of the folder containing "E - 19" on "Path Manager.txt";
+3) Put the "Band B - Data - Spectrum.TXT" and "Band B - Table - Transverse Section.xlsx" inside "E - 19";
+5) Run "Strain Sensing.py".
 
 Scientific papers:
 >
