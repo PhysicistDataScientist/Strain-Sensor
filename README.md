@@ -22,4 +22,4 @@ Instructions:
 5) Run "Strain Sensing.py".
 
 Scientific papers:
->
+> https://ieeexplore.ieee.org/abstract/document/10813522?casa_token=6mFvaPRiMSkAAAAA:Sk6YDyV7Cqg84-zvdZPFgRovU581T_BC4xkNNAAo_EgJrqlHxD32nipcrvOEJbBFrKZl4ACitQ
